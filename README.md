@@ -1,5 +1,7 @@
 # SAFE Studio blog
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SafeStudio/safestudio-blog.svg)](https://greenkeeper.io/)
+
 > This is source code for SAFE Studio blog
 
 ## Build Setup
